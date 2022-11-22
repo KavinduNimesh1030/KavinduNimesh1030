@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindunimesh1030&label=Profile%20views&color=0e75b6&style=flat" alt="kavindunimesh1030" /> </p>
 
-- 🌱 I’m currently learning **Hibernate/Html**
+- 🌱 I’m currently learning **JavaEE and Networking**
 
 - 👨‍💻 All of my projects are available at [http://kavindunimesh.epizy.com/?i=1](http://kavindunimesh.epizy.com/?i=1)
 
