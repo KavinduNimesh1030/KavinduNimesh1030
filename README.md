@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindunimesh1030&label=Profile%20views&color=0e75b6&style=flat" alt="kavindunimesh1030" /> </p>
 
-- 🌱 I’m currently learning **JavaEE and Networking**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://kavindunimesh.epizy.com/?i=1](http://kavindunimesh.epizy.com/?i=1)
-
-- 💬 Ask me about **Java/html/Mysql**
 
 - 📫 How to reach me **kavindunimesh286@gmail.com**
 
